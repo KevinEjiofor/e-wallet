@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.append" />
+          <option value="int.__getitem__" />
+          <option value="int.__setitem__" />
+          <option value="set.count" />
+          <option value="dict.capitalize" />
+          <option value="list.endswith" />
+          <option value="list.startswith" />
+          <option value="str.append" />
+          <option value="int.isdigit" />
+          <option value="str.__sub__" />
+          <option value="range.__getitem__" />
+          <option value="builtins.id.setter" />
+          <option value="str.getUsername" />
+          <option value="str.get_userName" />
+          <option value="int.append" />
+          <option value="str.split_list" />
+          <option value="list.split_list" />
+          <option value="int.split" />
+          <option value="random.random.randint" />
+          <option value="LearnPyTest.diary_main_app.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
